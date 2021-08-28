@@ -1,2 +1,1 @@
-
-Hello, this my page. I love creating things by code. And i love open source.
+.onion domain? yes? hmm, you should not be here. this place is dangerous, you know. you seem you know what you are doing. its a good thing.
